@@ -2,9 +2,9 @@
 
 A feature-rich mobile application built with React Native and Expo, showcasing modern UI components, navigation, and a fully interactive math quiz game. This project is deployed as a web app using Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://math-quiz-app-three.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://math-quiz-app-6i3i.vercel.app/)
 
-**[➡️ View the Live Demo Here!](https://math-quiz-app-three.vercel.app/)**
+**[➡️ View the Live Demo Here!](https://math-quiz-app-6i3i.vercel.app/)**
 
 
 
